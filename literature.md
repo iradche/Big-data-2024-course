@@ -1,20 +1,20 @@
 # Список рекомендованной литературы для курса "Технологии хранения больших данных"
 ## 1. Введение
-### "Big Data: Principles and Best Practices of Scalable Real-Time Data Systems" by Nathan Marz 
-Отличное введение в принципы и лучшие практики работы с большими данными.
-### "Big Data: A Revolution That Will Transform How We Live, Work, and Think" by Viktor Mayer-Schönberger and Kenneth Cukier
+### ["Big Data in Practice. How 45 Successful Companies Used Big Data Analytics to Deliver Extraordinary Results" Бернард Марр](https://www.litres.ru/book/bernard-marr/big-data-in-practice-how-45-successful-companies-used-big-dat-28277331/)
+Введение в принципы и лучшие практики работы с большими данными.
+### ["Большие данные. Революция, которая изменит то, как мы живем, работаем и мыслим" Виктор Майер-Шенбергер и Кеннет Кукьер](https://www.litres.ru/book/viktor-mayer-shenber/bolshie-dannye-revoluciya-kotoraya-izmenit-to-kak-my-6449497/)
 Рассматривает влияние больших данных на различные аспекты жизни и бизнеса.
 ## 2. Модели хранения данных – строковая модель, колоночная, графовая, документная
-### "Designing Data-Intensive Applications" by Martin Kleppmann
+### ["Высоконагруженные приложения. Программирование, масштабирование, поддержка" Мартин Клеппман](https://www.litres.ru/book/martin-kleppman-1733/vysokonagruzhennye-prilozheniya-programmirovanie-mass-39100996/)
 Глубокое исследование различных моделей хранения данных и их применения.
-### "SQL and Relational Theory: How to Write Accurate SQL Code" by C.J. Date
+### ["SQL и реляционная теория. Как грамотно писать код на SQL" К. Дж. Дейт](https://www.litres.ru/book/k-dzh-deyt/sql-i-relyacionnaya-teoriya-kak-gramotno-pisat-kod-na-sql-24499654/)
 Подробное руководство по реляционной модели и SQL.
-### "Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement" by Eric Redmond and Jim R. Wilson
+### ["Семь баз данных за семь недель. Введение в современные базы данных и идеологию NoSQL" Джим Р. Уилсон и Эрик Редмонд](https://www.litres.ru/book/dzhim-r-uilson/sem-baz-dannyh-za-sem-nedel-vvedenie-v-sovremennye-bazy-dan-6090319/)
 Рассматривает различные модели данных, включая колоночные, графовые и документные базы данных.
 ## 3. Языки запросов к различным моделям хранения – SQL, Cypher и т.д.
-### "SQL in 10 Minutes, Sams Teach Yourself" by Ben Forta
+### ["SQL за 10 минут" Бен Форта](https://www.labirint.ru/books/819364/)
 Быстрое введение в SQL.
-### "Learning Cypher" by Onofrio Panzarino
+### ["Системы графовых баз данных. Neo4j" Маркин А. В.](https://urait.ru/book/sistemy-grafovyh-baz-dannyh-neo4j-544089)
 Пособие по языку запросов для графовых баз данных Neo4j.
 ### "The Definitive Guide to MongoDB: A complete guide to dealing with Big Data using MongoDB" by David Hows, Eelco Plugge, Peter Membrey, and Tim Hawkins
 Введение в запросы MongoDB.
