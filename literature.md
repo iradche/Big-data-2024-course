@@ -16,24 +16,24 @@
 Быстрое введение в SQL.
 ### ["Системы графовых баз данных. Neo4j" Маркин А. В.](https://urait.ru/book/sistemy-grafovyh-baz-dannyh-neo4j-544089)
 Пособие по языку запросов для графовых баз данных Neo4j.
-### "The Definitive Guide to MongoDB: A complete guide to dealing with Big Data using MongoDB" by David Hows, Eelco Plugge, Peter Membrey, and Tim Hawkins
+### ["MongoDB: Полное руководство" Брэдшоу Ш., Брэзил Й., Ходоров К.](https://dmkpress.com/catalog/computer/databases/978-5-97060-792-3/)
 Введение в запросы MongoDB.
 ## 4. OLTP vs. OLAP, аналитические базы данных и эффективное представление данных для выполнения аналитических задач
-### "The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling" by Ralph Kimball and Margy Ross
+### ["Инструментарий хранения и анализа данных. Полное руководство по размерному моделированию" Ральф Кимбалл](https://www.ozon.ru/product/instrumentariy-hraneniya-i-analiza-dannyh-polnoe-rukovodstvo-po-razmernomu-modelirovaniyu-1543196655/)
 Классика по OLAP и аналитическим базам данных.
-### "Building a Scalable Data Warehouse with Data Vault 2.0" by Dan Linstedt and Michael Olschimke
+### ["Building a Scalable Data Warehouse with Data Vault 2.0" by Dan Linstedt and Michael Olschimke](https://www.logobook.ru/prod_show.php?object_uid=12791638)
 Рассматривает современные подходы к построению масштабируемых хранилищ данных.
-### "Competing on Analytics: The New Science of Winning" by Thomas H. Davenport and Jeanne G. Harris
+### ["Аналитика как конкурентное преимущество. Новая наука побеждать" Т.Давенпорт, Дж.Харрис](https://megamarket.ru/catalog/details/analitika-kak-konkurentnoe-preimushestvo-100024875953/)
 Влияние аналитики на бизнес и как эффективно использовать данные для принятия решений.
 ## 5. Поисковые индексы и эффективное хранение и применение индексов на диске – хэш-таблицы, деревья поиска, пространственные индексы, полнотекстовый поиск
-### "Database Internals: A Deep Dive into How Distributed Data Systems Work" by Alex Petrov
+### ["Распределенные данные. Алгоритмы работы современных систем хранения информации" А.Петров](https://www.ozon.ru/product/raspredelennye-dannye-algoritmy-raboty-sovremennyh-sistem-hraneniya-informatsii-petrov-aleks-293390709/)
 Глубокое понимание внутренних механизмов баз данных, включая индексы.
-### "Elasticsearch: The Definitive Guide" by Clinton Gormley and Zachary Tong
+### ["Elasticsearch 7.0 Cookbook" by Alberto Paro](https://www.ozon.ru/product/elasticsearch-7-0-cookbook-157734352/)
 Подробное руководство по полнотекстовому поиску с Elasticsearch.
-### "Introduction to Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
+### ["Алгоритмы. Вводный курс"  Кормен Томас Х.](https://www.ozon.ru/product/algoritmy-vvodnyy-kurs-kormen-tomas-h-340767503/) 
 Классическое введение в алгоритмы, включая хэш-таблицы и деревья поиска.
 ## 6. Форматы хранения данных – таблицы, protobuf, avro
-### "Pro Hadoop Data Analytics" by Kerry Koitzsch
+### ["Professional Hadoop" by Antony Benoy, Boudnik Konstantin](https://www.ozon.ru/product/professional-hadoop-antony-benoy-boudnik-konstantin-elektronnaya-kniga-936642571/)
 Рассматривает Avro и другие форматы данных в контексте Hadoop.
 ### "Protocol Buffers: Google's Data Interchange Format" by Sergii Ivashchenko
 Подробное руководство по Protocol Buffers (protobuf).
