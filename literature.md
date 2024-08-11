@@ -55,5 +55,5 @@
 Подробное руководство по Elasticsearch.
 - [The Little MongoDB Book (Маленькая книга о MongoDB)](https://github.com/night-codes/The-Little-MongoDB-Book-rus)    
 Книга на Гитхабе о MongoDB.   
-- ["Руководство по ClickHouse"](https://clickhouse.com/docs/ru/getting-started/tutorial)
+- ["Руководство по ClickHouse"](https://clickhouse.com/docs/ru/getting-started/tutorial)    
 Введение и подробное руководство по ClickHouse.
