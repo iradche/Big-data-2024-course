@@ -74,16 +74,25 @@ Avro: Формат данных для Hadoop и экосистемы больш
 Витрины данных (Data Marts): Принципы, архитектура, примеры использования.    
 Интеграция озер данных и витрин данных: Примеры и подходы.            
 
-### Опросы 
-1. Предопрос: https://forms.gle/JBoJHaRE7SBffjWm6     
-
+### Опросы    
+Предопрос: https://forms.gle/JBoJHaRE7SBffjWm6     
 
 ### Журнал занятий      
 Основная информация о занятиях (включая отметку о зачёте): 
 https://docs.google.com/spreadsheets/d/1a0PCWAtHOpnlTHo4IEXa-qLP7OpGkFsQaN0T6QlsZF4/edit?gid=0#gid=0     
 
 ### Телеграм-канал курса
-[https://t.me/BigDataCourse2024](https://t.me/BigDataCourse2024)     
+[https://t.me/BigDataCourse2024](https://t.me/BigDataCourse2024) 
+
+### Список литературы:     
+[Список рекомендованной литературы](https://github.com/iradche/Big-data-2024-course/blob/main/literature.md)
+
+### Оценка за курс   
+Для получения зачёта по курсу необходимо выполнить следующие задания:     
+1. Выступить с докладом на тему технологий хранения больших данных (тему доклада необходимо [выбрать из списка тем](https://docs.google.com/spreadsheets/d/e/2PACX-1vRaPxQWPS8hGtKUTEAruRp-uI-7QA4DmGy8TIIijuVRvQNRcVajz9Kvw2Y1K2tO91do1S8UM15qbbqc/pubhtml?gid=1698065974&single=true) заранее и согласовать с преподавателем).    
+2. Спроектировать информационную систему на основе больших данных (тематику ИС необходимо [выбрать из списка](https://docs.google.com/spreadsheets/d/e/2PACX-1vRaPxQWPS8hGtKUTEAruRp-uI-7QA4DmGy8TIIijuVRvQNRcVajz9Kvw2Y1K2tO91do1S8UM15qbbqc/pubhtml?gid=427201977&single=true) заранее и согласовать с преподавателем).   
+3. Выполнить задания курса по SQL.     
+4. Участвовать в семинарах, проводимых в течение всего курса.    
 
 
 
